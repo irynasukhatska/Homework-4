@@ -1,5 +1,6 @@
 import 'dart:io';
 import 'task2.dart';
+import 'task3.dart';
 
 class Student {
 
